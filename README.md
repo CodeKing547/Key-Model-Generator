@@ -21,6 +21,10 @@ Requirements:
 - pyqt4 4.11.4
 - pyqtgraph 0.10.0
 
+```
+pip install numpy-stl=2.10.0 numpy=1.15.1 pyqt4=4.11.4 pyqtgraph=0.10.0
+```
+
 NB: The specified versions are what was used during development, no other versions have been tested but some may work nonetheless.
 
 ---
